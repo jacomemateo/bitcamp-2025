@@ -2,3 +2,4 @@
 ## Authors:
 * Mateo Jacome
 * Jason Chen
+* Kavin Manivannan
