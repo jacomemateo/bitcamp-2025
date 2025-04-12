@@ -2,7 +2,6 @@
 ## Authors:
 * Mateo Jacome
 * Jason Chen
-* Kavin Manivannan
 * Isaac Samuel
 
 ## Specifications
